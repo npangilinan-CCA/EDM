@@ -1,4 +1,5 @@
 # Task Description
+![Image](https://github.com/user-attachments/assets/1d8c5146-2070-4e5d-aaab-0749f07dc1c4)
 
 
 ### Step 1: Download and Load Data  
