@@ -1,6 +1,5 @@
-# Task Description
-![Image](https://github.com/user-attachments/assets/1d8c5146-2070-4e5d-aaab-0749f07dc1c4)
-
+# Midterm Lab Task 2 - Data Cleansing and Preparation using Power Query
+For this task we are given an uncleaned raw data from Excel and we are tasked to perform Data CLeaning and Preparation using Power Query
 
 ### Step 1: Download and Load Data  
 1. Download the dataset (Uncleaned_DS_jobs.csv)  
