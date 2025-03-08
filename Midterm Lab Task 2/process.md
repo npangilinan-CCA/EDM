@@ -107,5 +107,5 @@ For this task we are given an uncleaned raw data from Excel and we are tasked to
 ![screenshot](images/Before.PNG)
 ## Here's the screenshot of my output after I started data cleaning (See screenshot)
 ![screenshot](images/After.PNG)
-## Here's the Query Dependencies
+## Here are the Query Dependencies
 ![screenshot](images/Query%20Dependencies.PNG)
