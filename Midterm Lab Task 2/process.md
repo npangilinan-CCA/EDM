@@ -61,7 +61,8 @@ For this task we are given an uncleaned raw data from Excel and we are tasked to
 1. Go to Home Menu → Click Advanced Editor  
 2. Copy and save the code in your portfolio  
 
-
+## Here's the Output for Part 1
+<!-- Uploading "duplicate.PNG"... -->
 
 ### Step 10: Reshape and Group Data  
 #### Group by Role Type  
