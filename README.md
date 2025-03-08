@@ -7,4 +7,5 @@ Hello, I’m Neil Pangilinan, a BS Information Systems (BSIS) student with a kee
 - High School: Angeles City Science High School
 ## My Projects
 - Midterm Lab Task 1: [Data Cleaning and Preparation](Midterm%20Lab%20Task%201/Process.md) 
-- Midterm Lab Task 2:
+- Midterm Lab Task 2: [Data Cleansing and Preparation using Power Query](Mideterm%20Lab%20Task%202/process.md)
+
