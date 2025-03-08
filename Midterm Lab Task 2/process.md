@@ -108,5 +108,9 @@ For this task we are given an uncleaned raw data from Excel and we are tasked to
 ![screenshot](images/Before.PNG)
 ## Here's the screenshot of my output after I started data cleaning (See screenshot)
 ![screenshot](images/After.PNG)
+## Here's my Uncleaned_DSjobs Duplicate
+![screenshot](images/duplicate.PNG)
+## Here's my Sal By Role Type dup
+![screenshot](images/Sal%20By%20Role%20Type%dup.PNG)
 ## Here are the Query Dependencies
 ![screenshot](images/Query%20Dependencies.PNG)
