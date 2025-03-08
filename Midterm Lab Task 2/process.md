@@ -104,9 +104,9 @@ For this task we are given an uncleaned raw data from Excel and we are tasked to
 ### Step 13: View Query Dependencies  
 1. Go to View Menu → Click Dependencies  
 2. Check if all queries are correctly linked
-## Here's the screenshot of my output before I started data cleaning (See screenshot)
+## Here's the screenshot of my output before I started data cleaning
 ![screenshot](images/Before.PNG)
-## Here's the screenshot of my output after I started data cleaning (See screenshot)
+## Here's the screenshot of my output after I started data cleaning 
 ![screenshot](images/After.PNG)
 ## Here's my Uncleaned_DSjobs Duplicate
 ![screenshot](images/duplicate.PNG)
