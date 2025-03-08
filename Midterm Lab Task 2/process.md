@@ -110,7 +110,13 @@ For this task we are given an uncleaned raw data from Excel and we are tasked to
 ![screenshot](images/After.PNG)
 ## Here's my Uncleaned_DSjobs Duplicate
 ![screenshot](images/duplicate.PNG)
+## Here's my Advanced Editor
+![screenshot](images/Advanced%20Editor.PNG)
 ## Here's my Sal By Role Type dup
-![screenshot](images/Sal%20By%20Role%20Type%dup.PNG)
+![screenshot](images/Sal%20By%20Role%20Type%20dup.PNG)
+## Here's my Sal By Role Size ref
+![screenshot](images/Sal%20By%20Role%20Size%20ref.PNG)
+## Here's my Sal By State ref
+![screenshot](images/Sal%20By%20State%20ref.PNG)
 ## Here are the Query Dependencies
 ![screenshot](images/Query%20Dependencies.PNG)
